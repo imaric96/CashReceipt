@@ -1,0 +1,3 @@
+Čitaj sa lokacije:;C:\Program Files (x86)\Delfin\TEMP;0
+Piši na lokaciju:;C:\Users\Ivan\Desktop\Novi Program\to_FP;0
+Proveravaj folder na:;C:\Program Files (x86)\Delfin\TEMP;10
